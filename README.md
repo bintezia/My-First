@@ -19,6 +19,7 @@ The primary goal is to eliminate data silos, reduce administrative burden, ensur
 
 **Training Management -** Skill development programs
 
+
 **Login Page:**
 <img width="1918" height="867" alt="login" src="https://github.com/user-attachments/assets/4f5bca7e-7d03-4f22-ae98-68b328c34daa" />
 
@@ -31,31 +32,33 @@ The primary goal is to eliminate data silos, reduce administrative burden, ensur
 **Recruitment Management:**
 <img width="1911" height="866" alt="recruitment" src="https://github.com/user-attachments/assets/67254207-d5e3-43fc-851e-44e46e9e1861" />
 
-👥 User Roles
-Admin - Full system control
+**👥 User Roles**
+**Admin -** Full system control
 
-Manager - Team management & approvals
+**Manager -** Team management & approvals
 
-Employee - Self-service portal
+**Employee -** Self-service portal
 
-🛠️ Tech Stack
-Frontend: HTML, CSS, JavaScript, Bootstrap
 
-Backend: Python, Flask
+**🛠️ Tech Stack**
+**Frontend:** HTML, CSS, JavaScript, Bootstrap
 
-Database: MySQL
+**Backend:** Python, Flask
 
-Tools: XAMPP/WAMP
+**Database:** MySQL
 
-⚙️ Installation
+**Tools:** XAMPP/WAMP
+
+**⚙️ Installation**
 Clone the repository
 
-bash
+**bash**
 git clone https://github.com/your-username/hr-management-system.git
 cd hr-management-system
 Install dependencies
 
-bash
+
+**bash**
 pip install -r requirements.txt
 Setup Database
 
@@ -67,33 +70,38 @@ Update credentials in config.py
 
 Run the application
 
-bash
+**bash**
 python app.py
 Access on http://localhost:5000
 
-🔐 Demo Login
-Admin: admin@hrms.com / password
 
-Manager: manager@hrms.com / password
+**🔐 Demo Login**
+**Admin:** admin@hrms.com / password
 
-Employee: employee@hrms.com / password
+**Manager:** manager@hrms.com / password
 
-📁 Project Structure
-text
+**Employee**: employee@hrms.com / password
+
+
+**📁 Project Structure**
+**text**
 hrms/
 ├── app.py              # Main application
 ├── static/            # CSS, JS, Images
 ├── templates/         # HTML templates
 ├── database/          # SQL schema
 └── modules/           # Business logic
-👥 Contributors
+
+
+**👥 Contributors**
 Hufsa Zia (B2433048)
 
 Emaan Shoukat Ali (B2433032)
 
 Areeba M. Amin (B2433016)
 
-📄 License
+
+**📄 License**
 MIT License - see LICENSE file for details.
 
 Academic project developed for learning purposes.
