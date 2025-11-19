@@ -21,6 +21,7 @@ The primary goal is to eliminate data silos, reduce administrative burden, ensur
 **Training Management -** Skill development programs
 
 
+
 **Login Page:**
 <img width="1918" height="867" alt="login" src="https://github.com/user-attachments/assets/4f5bca7e-7d03-4f22-ae98-68b328c34daa" />
 
