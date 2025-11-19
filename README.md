@@ -33,6 +33,7 @@ The primary goal is to eliminate data silos, reduce administrative burden, ensur
 <img width="1911" height="866" alt="recruitment" src="https://github.com/user-attachments/assets/67254207-d5e3-43fc-851e-44e46e9e1861" />
 
 **👥 User Roles**
+
 **Admin -** Full system control
 
 **Manager -** Team management & approvals
@@ -41,6 +42,7 @@ The primary goal is to eliminate data silos, reduce administrative burden, ensur
 
 
 **🛠️ Tech Stack**
+
 **Frontend:** HTML, CSS, JavaScript, Bootstrap
 
 **Backend:** Python, Flask
@@ -48,6 +50,7 @@ The primary goal is to eliminate data silos, reduce administrative burden, ensur
 **Database:** MySQL
 
 **Tools:** XAMPP/WAMP
+
 
 **⚙️ Installation**
 Clone the repository
@@ -76,6 +79,7 @@ Access on http://localhost:5000
 
 
 **🔐 Demo Login**
+
 **Admin:** admin@hrms.com / password
 
 **Manager:** manager@hrms.com / password
@@ -84,6 +88,7 @@ Access on http://localhost:5000
 
 
 **📁 Project Structure**
+
 **text**
 hrms/
 ├── app.py              # Main application
@@ -93,7 +98,42 @@ hrms/
 └── modules/           # Business logic
 
 
+**🚀 Future Enhancements**
+
+Mobile application development
+
+AI-powered analytics and predictions
+
+Biometric integration
+
+Single Sign-On (SSO) implementation
+
+Advanced reporting with data visualization
+
+Integration with accounting software
+
+Chatbot for HR queries
+
+Blockchain for secure verification
+
+
+**🔒 Security Features**
+
+Role-based access control (RBAC)
+
+Password hashing with bcrypt
+
+Session management
+
+Input validation and sanitization
+
+SQL injection prevention
+
+Cross-site scripting (XSS) protection
+
+
 **👥 Contributors**
+
 Hufsa Zia (B2433048)
 
 Emaan Shoukat Ali (B2433032)
@@ -102,6 +142,7 @@ Areeba M. Amin (B2433016)
 
 
 **📄 License**
+
 MIT License - see LICENSE file for details.
 
-Academic project developed for learning purposes.
+**Academic project developed for learning purposes.**
