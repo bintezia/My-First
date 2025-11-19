@@ -44,7 +44,7 @@ The primary goal is to eliminate data silos, reduce administrative burden, ensur
 
 
 
-**🛠️ Tech Stack**
+# **🛠️ Tech Stack**
 
 **Frontend:** HTML, CSS, JavaScript, Bootstrap
 
@@ -56,7 +56,7 @@ The primary goal is to eliminate data silos, reduce administrative burden, ensur
 
 
 
-**⚙️ Installation**
+# **⚙️ Installation**
 Clone the repository
 
 **bash**
@@ -82,7 +82,7 @@ python app.py
 Access on http://localhost:5000
 
 
-**🔐 Demo Login**
+# **🔐 Demo Login**
 
 **Admin:** admin@hrms.com / password
 
@@ -91,7 +91,7 @@ Access on http://localhost:5000
 **Employee**: employee@hrms.com / password
 
 
-**📁 Project Structure**
+# **📁 Project Structure**
 
 **text**
 hrms/
@@ -102,7 +102,7 @@ hrms/
 └── modules/           # Business logic
 
 
-**🚀 Future Enhancements**
+# **🚀 Future Enhancements**
 
 Mobile application development
 
@@ -121,7 +121,7 @@ Chatbot for HR queries
 Blockchain for secure verification
 
 
-**🔒 Security Features**
+# **🔒 Security Features**
 
 Role-based access control (RBAC)
 
@@ -136,7 +136,7 @@ SQL injection prevention
 Cross-site scripting (XSS) protection
 
 
-**👥 Contributors**
+# **👥 Contributors**
 
 Hufsa Zia (B2433048)
 
@@ -145,7 +145,7 @@ Emaan Shoukat Ali (B2433032)
 Areeba M. Amin (B2433016)
 
 
-**📄 License**
+# **📄 License**
 
 MIT License - see LICENSE file for details.
 
