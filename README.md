@@ -150,4 +150,13 @@ Areeba M. Amin (B2433016)
 
 MIT License - see LICENSE file for details.
 
+# **Acknowledgments**
+
+**Sir Anwar Ali Sathio**(Project Supervisor)
+
+University for providing resources and guidance
+
+Open-source community for valuable libraries and tools
+
 **Academic project developed for learning purposes.**
+
